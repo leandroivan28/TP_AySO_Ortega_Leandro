@@ -1,1 +1,2 @@
 usuario: :vagrant
+model name	: AMD Ryzen 3 7320U with Radeon Graphics
